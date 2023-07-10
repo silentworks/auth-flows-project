@@ -14,7 +14,9 @@
 	</Text>
 
 	<Text
-		><Link href="{siteUrl}/auth/magic-link/confirm?token={tokenHash}">Confirm your mail</Link></Text
+		><Link href="{siteUrl}/auth/magic-link/confirm?token={tokenHash}"
+			>Confirm your email address</Link
+		></Text
 	>
 
 	<Text>
