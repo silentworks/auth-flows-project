@@ -45,16 +45,10 @@
 	"type": "module",
 	"dependencies": {
 		"@supabase/auth-helpers-sveltekit": "0.10.1",
-		"@supabase/gotrue-js": "file:.yalc/@supabase/gotrue-js",
-		"@supabase/supabase-js": "^2.25.0",
+		"@supabase/supabase-js": "^2.31.0",
 		"daisyui": "^2.51.6",
 		"nodemailer": "^6.9.3",
 		"svelte-email": "^0.0.4",
 		"zod": "^3.21.4"
-	},
-	"pnpm": {
-		"overrides": {
-			"@supabase/gotrue-js": "file:.yalc/@supabase/gotrue-js"
-		}
 	}
 }
